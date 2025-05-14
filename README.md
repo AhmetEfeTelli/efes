@@ -1,17 +1,17 @@
-| Gün | Yapılacak İşler                                                            | Tahmini Çalışma Süresi |
-| --- | -------------------------------------------------------------------------- | ---------------------- |
-| 1   | Proje kurulumu, React projesi başlatma, sayfa iskeletlerini oluşturma.     | 6 saat                 |
-| 2   | Wireframe çizimi, akış planının yapılması.                                 | 4 saat                 |
-| 3   | React sayfaları oluşturulup düzenlenmesi (Ana sayfa, çalışma sayfası vs.). | 6 saat                 |
-| 4   | Pomodoro zamanlayıcısı geliştirilmesi.                                     | 6 saat                 |
-| 5   | Günlük hedef belirleyici özelliğinin eklenmesi.                            | 6 saat                 |
-| 6   | Görev listesi özelliklerinin yapılması.                                    | 5 saat                 |
-| 7   | **localStorage ile veri kaydı işleminin entegre edilmesi.**                | **14 saat**            |
-| 8   | Haftalık ilerleme grafiklerinin eklenmesi (Chart.js kullanımı).            | 14 saat                |
-| 9   | Not alma bölümü geliştirilmesi ve entegrasyonu.                            | 12 saat                |
-| 10  | Giriş/Kayıt sistemi (Firebase - isteğe bağlı) entegrasyonu.                | 12 saat                |
-| 11  | Mobil uyumlu tasarımın yapılması.                                          | 12 saat                |
-| 12  | Hata ayıklama, testler ve debugging yapılması.                             | 12 saat                |
-| 13  | Geri bildirim toplama, iyileştirmeler yapma.                               | 12 saat                |
-| 14  | README dosyasının yazılması ve proje dokümantasyonunun tamamlanması.       | 8 saat                 |
-| 15  | Final test, son kontroller ve projenin GitHub'a yüklenmesi.                | 8 saat                 |
+| Day | Tasks                                                                  | Estimated Working Hours |
+| --- | ---------------------------------------------------------------------- | ----------------------- |
+| 1   | Project setup, starting the React project, creating the page skeleton. | 6 hours                 |
+| 2   | Wireframe design, planning the flow.                                   | 4 hours                 |
+| 3   | Creating and adjusting React pages (Main page, study page, etc.).      | 6 hours                 |
+| 4   | Developing the Pomodoro timer.                                         | 6 hours                 |
+| 5   | Adding the daily goal-setting feature.                                 | 6 hours                 |
+| 6   | Implementing task list features.                                       | 5 hours                 |
+| 7   | **Integrating localStorage for data storage.**                         | **14 hours**            |
+| 8   | Adding weekly progress graphs (using Chart.js).                        | 14 hours                |
+| 9   | Developing and integrating the note-taking section.                    | 12 hours                |
+| 10  | Integrating sign-up/login system (Firebase - optional).                | 12 hours                |
+| 11  | Implementing mobile-responsive design.                                 | 12 hours                |
+| 12  | Debugging, testing, and troubleshooting.                               | 12 hours                |
+| 13  | Gathering feedback, making improvements.                               | 12 hours                |
+| 14  | Writing the README file and completing project documentation.          | 8 hours                 |
+| 15  | Final testing, last checks, and uploading the project to GitHub.       | 8 hours                 |
